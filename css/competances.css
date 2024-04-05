@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.competence {
+    margin-bottom: 30px;
+}
+
+.competence img {
+    width: 1000px; /* Augmentez la taille de l'image selon vos besoins */
+    height: auto; /* Pour maintenir les proportions de l'image */
+}
+
+
+.competence p {
+    margin-top: 10px;
+}
